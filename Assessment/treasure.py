@@ -11,3 +11,5 @@ while True:
     y = int(y_input)
     if x + y == 10:
         print("Treasure located at ({}, {})".format(x, y))
+
+print{'')}
